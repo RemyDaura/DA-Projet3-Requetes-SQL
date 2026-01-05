@@ -11,3 +11,6 @@ Exploration du schéma relationnel pour comprendre comment les tables sont liée
 Utilisation de jointures (JOIN) et d'agrégations (GROUP BY) pour croiser les informations entre les commandes, les produits et les clients.
 
 🛠 Stack : SQL (MySQL/PostgreSQL), SGBD.
+
+<img src="images/Capture d'écran 2025-08-14 153836.png" width="500px"> <img src="images/Capture d'écran 2025-08-18 111504.png" width="500px">
+<img src="images/Capture d'écran 2025-08-22 155454.png" width="500px"> <img src="images/Capture d'écran 2025-08-22 155520.png" width="500px">
